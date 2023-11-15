@@ -22,8 +22,7 @@ Construct a Python program to read a text from a file. Identify the verbs from t
 6. Execute the main program.
 
 ## PROGRAM
-## NAME:- Virgil Jovita A
-## REG NO: 212221240062
+
 ```python
 import nltk
 from nltk.corpus import wordnet
